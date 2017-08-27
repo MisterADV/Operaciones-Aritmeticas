@@ -22,5 +22,6 @@ int main(){
 	cout<<"La multiplicacion da "<<multiplicacion<<endl;
 	cout<<"La division da "<<division<<endl;
 	
+	return 0;
 	getch();
 }
